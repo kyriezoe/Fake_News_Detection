@@ -2,7 +2,7 @@
 `Kill fake news to create a purer online world!`\
 This project was done during my semester-long visiting at the [University of Wisconsin-Madison](https://www.wisc.edu/).\
 Cooperated with Huankang Guan, Meghana Moorthy Bhat and [Justin Hsu](https://justinh.su/).\
-Our initial work will show up in [ICAART19](http://www.icaart.org/Home.aspx)!
+Our initial work will show up in [ICAART19](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/75663)!
 
 ## Abstract of the paper
 News plays a significant role in shaping people’s beliefs and opinions. Fake news has always been a problem,
@@ -14,7 +14,7 @@ experiments on Fakebox, a state-of-the-art fake news detector, we show that fact
 effective. To address these weaknesses, we argue that fact checking should be adopted in conjunction with
 linguistic characteristics analysis, so as to truly separate fake news from real news.
 
-Full paper [here](https://github.com/kyriezoe/FakeNewsDetection/blob/master/ICAART.pdf)
+Full paper [here](https://arxiv.org/abs/1901.09657)
 
 ## AutoWeb
 Automatically feed articles to Fakebox and store labels back to csv. file.\
