@@ -1,7 +1,7 @@
 # Fake_News_Detection
 `Kill fake news to create a purer online world!`\
 This project was done during my semester-long visiting at the [University of Wisconsin-Madison](https://www.wisc.edu/).\
-Cooperated with Huankang Guan, Meghana Moorthy Bhat and [Justin Hsu](https://justinh.su/).\
+Cooperated with Huankang Guan, [Meghana Moorthy Bhat](https://meghu2791.github.io/) and [Justin Hsu](https://justinh.su/).\
 Our initial work will show up in [ICAART19](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/75663)!
 
 ## Abstract of the paper
