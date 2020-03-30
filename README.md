@@ -4,9 +4,9 @@ This project was done during my semester-long visit at the [University of Wiscon
 Cooperated with Huankang Guan, [Meghana Moorthy Bhat](https://meghu2791.github.io/) and [Justin Hsu](https://justinh.su/).\
 Our initial work will show up in [ICAART19](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/75663)!\
 Citation: 
-\`Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," in 11th International Conference on Agents and Artificial Intelligence (ICAART), Prague, Czech Republic.`\
+`Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," in 11th International Conference on Agents and Artificial Intelligence (ICAART), Prague, Czech Republic.`\
 or: 
-\`Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," arXiv.`
+`Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," arXiv.`
 
 ## Abstract of the paper
 News plays a significant role in shaping people’s beliefs and opinions. Fake news has always been a problem,
