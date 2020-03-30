@@ -1,8 +1,10 @@
-# Fake_News_Detection
+# Adversarial Attacks against Fake News Detection Models
 `Kill fake news to create a purer online world!`\
-This project was done during my semester-long visiting at the [University of Wisconsin-Madison](https://www.wisc.edu/).\
+This project was done during my semester-long visit at the [University of Wisconsin-Madison](https://www.wisc.edu/).\
 Cooperated with Huankang Guan, [Meghana Moorthy Bhat](https://meghu2791.github.io/) and [Justin Hsu](https://justinh.su/).\
-Our initial work will show up in [ICAART19](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/75663)!
+Our initial work will show up in [ICAART19](http://insticc.org/node/TechnicalProgram/icaart/presentationDetails/75663)!\
+`Citation: Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," in 11th International Conference on Agents and Artificial Intelligence (ICAART), Prague, Czech Republic.\ 
+or: Zhixuan Zhou, Huankang Guan, Meghana Moorthy Bhat, and Justin Hsu, "Fake News Detection via NLP is Vulnerable to Adversarial Attacks," arXiv.`
 
 ## Abstract of the paper
 News plays a significant role in shaping people’s beliefs and opinions. Fake news has always been a problem,
@@ -19,6 +21,4 @@ Full paper [here](https://arxiv.org/abs/1901.09657)
 ## AutoWeb
 Automatically feed articles to Fakebox and store labels back to csv. file.\
 Require Python3 to run urllib.\
-Run Main.py directly and output.csv will be written. If it doesn't work on Windows, perhaps it's because you don't have authority for writing files. Re-install Python or turn to Linux.\
-
-Code [here](https://www.overleaf.com/read/rnyxzdnqbmdg)
+Run Main.py directly and output.csv will be written. If it doesn't work on Windows, perhaps it's because you don't have authority for writing files. Re-install Python or turn to Linux.
